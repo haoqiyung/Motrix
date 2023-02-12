@@ -37,6 +37,6 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: motrix-desktop-x86_64-Setup
-          path: build/*x86_64 Setup.exe
+          path: build/*x86_64-Setup
 
 
