@@ -33,6 +33,10 @@ jobs:
           # (No need to define this secret in the repo settings)
           github_token: ${{ secrets.github_token }}
 
-
+      - name: Upload Artifact Setup x86_64
+        uses: actions/upload-artifact@v3
+        with:
+          name: motrix-desktop-x86_64-Setup
+          path: build/*x86_64 Setup.exe
 
 
