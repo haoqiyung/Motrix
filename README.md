@@ -174,9 +174,6 @@ After building, the application will be found in the project's `release` directo
 
 Development Roadmap see: [Trello](https://trello.com/b/qNUzA0bv/motrix)
 
-## 🤝 Contribute [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-
-If you are interested in participating in joint development, PR and Forks are welcome!
 
 ## 🌍 Internationalization
 
